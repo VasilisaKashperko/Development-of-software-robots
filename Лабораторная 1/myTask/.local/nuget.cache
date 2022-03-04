@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pEba6bsfd7XBYCkP2ftKVZQq9XHE2MhoC5jpOlC18bMw5cCwnf4Wr/oWgs8UeAw9qov2H9DFVMNh/tJzpN4MUQ==",
+  "dgSpecHash": "QdpjlT7zQN1RitF4/fMvzzEmhw+nYfMpoqf+kRGZaYevSUx7wxncvhWEJqWHJGE4KQ57o6wHCZyK/a+iUIhFTg==",
   "success": true,
-  "projectFilePath": "D:\\Учеба в БГТУ\\Пустовалова РПР\\Лабораторная 1\\myTask\\.local\\",
+  "projectFilePath": "D:\\Учеба в БГТУ\\Пустовалова Н.Н. РПР\\Лабораторная 1\\myTask\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\Vasilisa\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
     "C:\\Users\\Vasilisa\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",
